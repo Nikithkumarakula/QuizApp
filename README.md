@@ -31,6 +31,7 @@ Once the user completes all questions, the application displays the final score 
 
 
 
-##📋 How to Run the Project
+## 📋 How to Run the Project
 - **1.Clone the repository**:
+~~~ bash
 git clone https://github.com/your-username/quizapp.git
