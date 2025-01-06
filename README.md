@@ -25,8 +25,10 @@ Once the user completes all questions, the application displays the final score 
 ReactJS: Frontend framework for building the user interface.
 State Management: Managed using React's useState and useEffect hooks.
 CSS: For styling the application.
-![image](https://github.com/user-attachments/assets/95a448d0-b632-4614-a453-ed6a3922e895)
-![image](https://github.com/user-attachments/assets/a1f84630-1c94-46c2-81a1-fe87eb03a7b6)
+![image](https://github.com/user-attachments/assets/a75d1f58-781f-4c76-a893-a32be1f1f9eb)
+![image](https://github.com/user-attachments/assets/8cffe824-d963-4e93-8755-112e20605d79)
+
+
 
 
 📋 How to Run the Project
